@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=SSD
+comment1.params=
+comment1.target=SSD()
+comment10.params=e
+comment10.target=void\ setSSD5(int)
+comment11.params=
+comment11.target=int\ getSSD5()
+comment12.params=
+comment12.target=java.lang.String\ toString()
+comment2.params=a
+comment2.target=void\ setSSD1(int)
+comment3.params=
+comment3.target=int\ getSSD1()
+comment4.params=b
+comment4.target=void\ setSSD2(int)
+comment5.params=
+comment5.target=int\ getSSD2()
+comment6.params=c
+comment6.target=void\ setSSD3(int)
+comment7.params=
+comment7.target=int\ getSSD3()
+comment8.params=d
+comment8.target=void\ setSSD4(int)
+comment9.params=
+comment9.target=int\ getSSD4()
+numComments=13

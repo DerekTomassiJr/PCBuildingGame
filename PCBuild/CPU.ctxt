@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=CPU
+comment1.params=
+comment1.target=CPU()
+comment10.params=e
+comment10.target=void\ setCPU5(java.lang.String)
+comment11.params=
+comment11.target=java.lang.String\ getCPU5()
+comment12.params=
+comment12.target=java.lang.String\ toString()
+comment2.params=a
+comment2.target=void\ setCPU1(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getCPU1()
+comment4.params=b
+comment4.target=void\ setCPU2(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getCPU2()
+comment6.params=c
+comment6.target=void\ setCPU3(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ getCPU3()
+comment8.params=d
+comment8.target=void\ setCPU4(java.lang.String)
+comment9.params=
+comment9.target=java.lang.String\ getCPU4()
+numComments=13

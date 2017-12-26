@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=GPU
+comment1.params=
+comment1.target=GPU()
+comment10.params=e
+comment10.target=void\ setGPU5(java.lang.String)
+comment11.params=
+comment11.target=java.lang.String\ getGPU5()
+comment12.params=
+comment12.target=java.lang.String\ toString()
+comment2.params=a
+comment2.target=void\ setGPU1(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getGPU1()
+comment4.params=b
+comment4.target=void\ setGPU2(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getGPU2()
+comment6.params=c
+comment6.target=void\ setGPU3(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ getGPU3()
+comment8.params=d
+comment8.target=void\ setGPU4(java.lang.String)
+comment9.params=
+comment9.target=java.lang.String\ getGPU4()
+numComments=13
